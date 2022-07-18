@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\bin\Debug\net6.0\Demo_03.exe
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\bin\Debug\net6.0\Demo_03.deps.json
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\bin\Debug\net6.0\Demo_03.runtimeconfig.json
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\bin\Debug\net6.0\Demo_03.dll
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\bin\Debug\net6.0\Demo_03.pdb
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\obj\Debug\net6.0\Demo_03.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\obj\Debug\net6.0\Demo_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\obj\Debug\net6.0\Demo_03.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\obj\Debug\net6.0\Demo_03.AssemblyInfo.cs
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\obj\Debug\net6.0\Demo_03.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\obj\Debug\net6.0\Demo_03.dll
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\obj\Debug\net6.0\refint\Demo_03.dll
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\obj\Debug\net6.0\Demo_03.pdb
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\obj\Debug\net6.0\Demo_03.genruntimeconfig.cache
+C:\Users\HP\Documents\C#\Task5\Task5\Demo_03\obj\Debug\net6.0\ref\Demo_03.dll
